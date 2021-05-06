@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Facts App</string>
+
+    <string name="kotlin">Kotlin</string>
+    <string name="cpp">C++</string>
+    <string name="python">Python</string>
+    <string name="php">PHP</string>
+    <string name="scratch">Scratch</string>
+    <string name="go">Golang</string>
+    <string name="js">JavaScript</string>
+
+
+    <string name="kt_det">
+        A multi-purpose language.
+        \n Often used to develop android applications.
+        \nIt is a fun and quick to adapt language</string>
+
+    <string name="cpp_det">
+        It is a powerful general-purpose programming language.
+        \nIt can be used to develop operating systems, browsers, games, and so on.
+       \nC++ has influenced many other programming languages, some of which include C#, Java and even newer versions of C.
+        \nIf C++ was never created, who knows what these programming languages would look like today🤔.
+    +</string>
+    <string name="python_det">
+        The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s).\n
+        Guido,the creator, himself is a big fan of Monty Python’s Flying Circus.
+        \nBeing in a rather irreverent mood, he named the project ‘Python’. </string>
+    <string name="php_det">
+        PHP originally stood for Personal Home Page.
+\nPHP which is now officially known as ‘Hypertext Preprocessor’ was released in the year 1995.
+    </string>
+    <string name="scratch_det">
+Scratch is a block-based visual programming language and website targeted primarily at children.
+        \nUsers of the site can create online projects using a block-like interface.
+    </string>
+    <string name="go_det">
+       It is the language developed by Google.
+        \nIt is useful for carrying out programming for scalable servers and large software systems.
+        \nThe Golang programming language was built to fill in the gaps of C++ and Java that Google came across while working with its servers and distributed systems.
+    </string>
+    <string name="js_det">
+        Along with HTML an CSS, JavaScript is one of the three main things of the www (World Wide Web).
+        \nIt enables interactive web pages and thus is an essential part of web applications.
+        \nA majority of websites use it and all major web browsers have a devoted JavaScript engine to execute it.
+    </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="btn_sign_in">Sign in or login</string>
+    <string name="welcome">Welcome !</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="Bk_logo">Book Logo</string>
+    <string name="lang_logo">Logo</string>
+
+</resources>
