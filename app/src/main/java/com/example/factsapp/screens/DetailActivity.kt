@@ -21,6 +21,9 @@ class DetailActivity : AppCompatActivity() {
         name = intent.getStringExtra(FactsAdapter.NAME_EXTRA)
         detail = intent.getStringExtra(FactsAdapter.FACT_EXTRA)
         setUpFactDetail()
+        // To show back button in actionbar
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
     }
 
     private fun setUpFactDetail() {

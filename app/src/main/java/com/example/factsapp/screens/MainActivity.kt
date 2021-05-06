@@ -14,6 +14,9 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding?.root)
         setUpFacts()
+        // To show back button in actionbar
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
     }
 
     private fun setUpFacts() {
